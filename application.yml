@@ -11,12 +11,12 @@ eureka:
 ---
 spring:
   profiles: subject
-words: I,You,He,She,It
+words: I,You,He,She,It,Somebody
   
 ---
 spring:
   profiles: verb
-words: ran,knew,had,saw,bought
+words: ran,knew,had,saw,bought,satisfied
 
 ---
 spring:
@@ -26,9 +26,9 @@ words: a,the
 ---
 spring:
   profiles: adjective
-words: reasonable,leaky,suspicious,ordinary,unlikely
+words: reasonable,leaky,suspicious,ordinary,unlikely,gloomy
 
 ---
 spring:
   profiles: noun
-words: boat,book,vote,seat,backpack,partition,groundhog
+words: boat,book,vote,seat,backpack,partition,groundhog,housewife
